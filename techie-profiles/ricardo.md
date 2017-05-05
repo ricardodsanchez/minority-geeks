@@ -9,13 +9,13 @@ Exploring new ideas and finding new opportunities are key to success. Continuous
 ## Current Job
 
 * Working as a software engineer for Paylocity.
-* Founder and organizer of the Austin Diversity-in-Tech Meetup
+* Founder and organizer of the [Austin Diversity-in-Tech Meetup](https://www.meetup.com/Austin-Tech-Meetup/)
 
 ## Projects
 
-* RethinkHub - We can create, manage, and maintain your WordPress site.
-* Startup Interns - A site dedicated to help students and local startups find each other.
-* OnTechies.com - A site dedicated to share (in Spanish) the latest and greatest in technology.
+* [RethinkHub](http://rethinkhub.com) - We can create, manage, and maintain your WordPress site.
+* [Startup Interns](http://startupinterns.co) - A site dedicated to help students and local startups find each other.
+* [OnTechies.com](https://ontechies.com) - A site dedicated to share (in Spanish) the latest and greatest in technology.
 
 ## How to reach me
 
