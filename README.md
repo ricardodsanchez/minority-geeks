@@ -1,4 +1,4 @@
-# minority-geeks
+# minority-techies
 A list of minorities who are doing something in tech
 
 ## Techies
