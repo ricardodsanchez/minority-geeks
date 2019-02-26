@@ -1,4 +1,4 @@
-# Ricardo Sanchez
+# Fernando Zamora
 
 ## Short bio
 
